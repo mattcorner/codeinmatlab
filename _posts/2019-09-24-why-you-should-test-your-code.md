@@ -1,13 +1,11 @@
 ---
 title: Why you should be writing tests for your code
-layout: single
-author_profile: true
-read_time: true
-comments: null
-share: true
-related: true
 categories:
 - Best practice
+tags:
+- unit testing
+- testing
+- continuous integration
 ---
 
 People make mistakes. Its human nature. So why do so many developers assume that the code they write will just work?

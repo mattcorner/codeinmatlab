@@ -1,7 +1,5 @@
 ---
-title: "Why prellocate arrays?"
-excerpt_separator: "<!--more-->"
-date: 2019-09-18T12:48:00+10:00
+title: "Why preallocate arrays?"
 categories:
   - Best practice
 tags:

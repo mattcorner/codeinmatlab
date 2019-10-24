@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Matt Corner"
   avatar           : "/assets/img/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Just a developer sharing my matlab experiences."
+  bio              : "A software developer sharing my matlab experiences."
   location         : "Brisbane, Australia"
   email            :
   links:
